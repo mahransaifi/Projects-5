@@ -1,0 +1,11 @@
+h1::first-letter{
+    color: brown;
+}
+
+p::first-line{
+    color: red;
+}
+
+p::selection{
+    color: rgb(14, 191, 49);
+}
